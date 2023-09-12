@@ -41,9 +41,6 @@
 
 *&lt;A Pizza-Express, apesar de ser uma pizzaria que possui computadores para armazenar as operações de negocio, não tem um sistema de entrega eficiente, fazendo com que a pizzaria perca clientes para sua concorrente principal que realiza suas entregas em 30 minutos. Sendo assim, torna-se necessário a implantação de um sistema que facilite o processo de entregas, localizando, dentro das 40 lojas de fast food, a loja mais próxima da casa do cliente.&gt;*  
 
-![image](https://github.com/yasmin-toledo/YFBD/assets/129632889/e6b479a6-c214-4af1-97f9-2bf7d663989b)
-
-
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
 
